@@ -1,2 +1,2 @@
-# web-develpment
+# web-development
 belajar pengembangan website
